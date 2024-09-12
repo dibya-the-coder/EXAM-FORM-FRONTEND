@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## To start the project create a .env file in the root directory
-declare and add the value of the following variable
-VITE_FIREBASE_API_KEY = <'Your firebase key'>
-VITE_BASE_URL = <'Base url of your api'>
+declare and add the value of the following variable 
+
+-VITE_FIREBASE_API_KEY = <'Your firebase key'>
+-VITE_BASE_URL = <'Base url of your api'>
