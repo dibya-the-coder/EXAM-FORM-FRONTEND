@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 ## To start the project create a .env file in the root directory
 declare and add the value of the following variable 
 
--VITE_FIREBASE_API_KEY = <'Your firebase key'>
+-VITE_FIREBASE_API_KEY = <'Your firebase key'> \
 -VITE_BASE_URL = <'Base url of your api'>
